@@ -3,7 +3,7 @@
 </div>
 
 # Delin_Cascade
-Parallel connections of solar micro-modules without patterning techniques.
+Simulating parallel connections of solar micro-modules without patterning techniques.
 
 [Multisim Live: Delin -  Cascade](https://www.multisim.com/content/5xXF7CqFQXdMZ4pvNVdkLV/delin-cascade/)
 
